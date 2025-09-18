@@ -1,5 +1,5 @@
 
-Introduction to Python
+            Introduction to Python
 Python is a high-level, general-purpose, and versatile programming language that has become one of the most popular tools in the world of software development, data science, artificial intelligence, and automation. Designed with simplicity and readability in mind, Python allows developers to focus on solving problems rather than worrying about complex syntax rules.
 
 Python was created by Guido van Rossum in the late 1980s and officially released in 1991. The language was influenced by ABC programming language and aimed to provide a simple yet powerful tool for developers. Over the years, Python has evolved into a mature ecosystem supported by a vast community, extensive libraries, and frameworks that make it suitable for almost any domain of computing.
